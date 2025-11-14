@@ -12,3 +12,4 @@ Capsule-authored RFID React stemdeck system with override enforcement, biometric
 - SYNC: Capsule metadata bound to CLRV TITANIUM Blockchain
 
 Contact: clrvtitaniumblockstream@capsule
+CLRV stands for Creativelive Riana Venter
